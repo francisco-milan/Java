@@ -1,0 +1,22 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        // Java Source Code
+
+        // Define a variable with an integer value
+        int myNumber1 = 5;
+        int myNumber2 = 25;
+        String myNumber3 = "25";
+        float myNumber4 = 25.5f;
+        double myNumber5 = 25.5d;
+
+        // Send the value of the variable to the console
+        System.out.println(myNumber1);
+        System.out.println(myNumber2);
+        System.out.println(myNumber3);
+        System.out.println(myNumber4);
+        System.out.println(myNumber5);
+    }
+}
