@@ -1,0 +1,9 @@
+// Every program in Java must have a class.
+// Every Java program starts from the main method.
+// https://code.sololearn.com/716/#java
+
+class MyClass {
+  public static void main(String[ ] args) {
+    System.out.println("Hello World");
+  }
+}
