@@ -1,0 +1,11 @@
+// Basic Concepts > Increment & Decrement
+// https://code.sololearn.com/723/#java
+
+public class Program {
+    public static void main(String[] args) {
+        int x = 34;
+        int y = x++;
+
+        System.out.println(y);
+    }
+}
