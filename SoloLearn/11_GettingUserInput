@@ -1,0 +1,11 @@
+// Basic Concepts > Getting User Input
+// https://code.sololearn.com/935/#java
+
+import java.util.Scanner;
+
+class MyClass {
+    public static void main(String[ ] args) {
+        Scanner myVar = new Scanner(System.in);
+        System.out.println(myVar.nextLine());        
+    }
+}
