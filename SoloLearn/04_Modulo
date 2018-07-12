@@ -1,0 +1,11 @@
+// Basic Concepts > Variables
+// https://code.sololearn.com/719/#java
+
+public class Program {
+    public static void main(String[] args) {
+        int value = 23;
+        int res = value % 6;
+
+        System.out.println(res);
+    }
+}
