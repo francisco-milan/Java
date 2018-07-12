@@ -1,0 +1,11 @@
+// Basic Concepts > Increment & Decrement
+// https://code.sololearn.com/721/#java
+
+public class Program {
+    public static void main(String[] args) {
+        int test = 5;
+        --test; 
+        
+        System.out.println(test);
+    }
+}
