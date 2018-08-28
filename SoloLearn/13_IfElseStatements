@@ -1,0 +1,14 @@
+// 13_IfElseStatements
+// Conditionals and Loops > if else Statements
+// https://code.sololearn.com/728/#java
+
+public class Program {
+    public static void main(String[] args) {
+        int age = 30;
+        if (age < 16) {
+            System.out.println("Too Young");
+        } else {
+            System.out.println("Welcome!");
+        }
+    }
+}
