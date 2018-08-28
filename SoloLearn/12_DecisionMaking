@@ -1,0 +1,12 @@
+// 12_DecisionMaking
+// Conditionals and Loops > Decision Making
+// https://code.sololearn.com/727/#java
+
+public class Program {
+    public static void main(String[] args) {
+        int x = 7;
+        if(x < 42) {
+            System.out.println("Hi");
+        }
+    }
+}
